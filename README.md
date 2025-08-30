@@ -22,7 +22,7 @@ cp env.example .env
 
 | Variable                          | Description                 | Default                                               |
 | --------------------------------- | --------------------------- | ----------------------------------------------------- |
-| `EXPO_PUBLIC_API_BASE_URL`        | Backend API base URL        | `https://library-management-system-lxk1.onrender.com` |
+| `EXPO_PUBLIC_API_BASE_URL`        | Backend API base URL        | ``                                                    |
 | `EXPO_PUBLIC_API_VERSION`         | API version                 | `v1`                                                  |
 | `EXPO_PUBLIC_API_AUTH_LOGIN`      | Login endpoint              | `/auth/login`                                         |
 | `EXPO_PUBLIC_API_USERS_ME`        | User profile endpoint       | `/users/me`                                           |
